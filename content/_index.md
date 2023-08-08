@@ -55,8 +55,8 @@ sections:
         country: United States
         country_code: US
       office_hours:
-        - 'Tuesdays 9:00 to 10:00am, 4:00 to 5:00pm'
-        - 'Thursdays 9:00 to 10:00am, 4:00 to 5:00pm'
+        - 'Tuesdays 9:00 to 10:00am and 4:00 to 5:00pm'
+        - 'Thursdays 9:00 to 10:00am and 4:00 to 5:00pm'
     
       # Automatically link email and phone or display as text?
       autolink: true
