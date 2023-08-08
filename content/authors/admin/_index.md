@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto: bfelegi@vt.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BFelegi
