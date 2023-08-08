@@ -1,5 +1,5 @@
 ---
-title: "Supply-Side Response in School Choice"
+title: "Supply-Side Responses in School Choice"
 authors:
 - Chandon Adger
 - admin
@@ -23,26 +23,30 @@ abstract: Despite the growing size of private-school voucher programs, our under
 
 
 # Summary. An optional shortened abstract.
+summary: This is a test
 
 tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: Custom Link
+  url: http://example.org
 url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Supply_Side_Responses_in_School_Choice.pdf
 url_code: ''
-url_dataset: ''
-url_poster: ''
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -56,13 +60,11 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
