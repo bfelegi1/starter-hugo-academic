@@ -11,8 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  
-
   - block: collection
     id: projects
     content:
@@ -23,8 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
-     
+      view: card     
   - block: collection
     id: teaching
     content:
@@ -36,7 +33,6 @@ sections:
     design:
       columns: '2'
       view: card
-
   - block: contact
     id: contact
     content:
@@ -57,7 +53,6 @@ sections:
       office_hours:
         - 'Tuesdays 9:00 to 10:00am and 4:00 to 5:00pm'
         - 'Thursdays 9:00 to 10:00am and 4:00 to 5:00pm'
-    
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
