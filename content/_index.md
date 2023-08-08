@@ -31,7 +31,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me with any questions!
       # Contact (add or remove contact options as necessary)
       email: bfelegi@vt.edu
       phone: 561 598 98 93
