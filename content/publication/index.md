@@ -1,20 +1,19 @@
 ---
-title: "Global Temperature Shocks and Real Exchange Rates"
+title: "Supply-Side Responses in School Choice"
 
-date: 2022-07-13
+date: 2022-11-12
 
 publishDate: 2021-03-4T14:37:16.459582Z
 
-authors: ["Sinyoung Lee", "Nelson C. Mark", "Jonas Nauerz", "Jonathan Rawls", "Zhiyi Wei"]
+authors: ["Chandon Adger", "Brianna Felegi"]
 
-publication_types: ["3"]
+publication_types: ["4"]
 
-summary: "We study the response of monthly U.S. dollar real exchange rates to global and country-specific temperature shocks and find substantial cross-sectional differences across country pairs. The real exchange rate is more likely to depreciate if the country is warmer, wealthier, more dependent on agriculture, less open, and more dependent on tourism."
 
-abstract: "We find heterogeneous impulse responses of monthly U.S. dollar (USD) real exchange rates of 76 countries to global temperature shocks. Four years after a positive 1C increase in global temperature over its historical average, the Czech Republic currency appreciates by 14.5 percent against the USD while the currency of Burundi depreciates by 4.2 percent. The determinants of response heterogeneity are studied by regressing local projection response coefficients on country characteristics. A country's currency more likely to depreciate if it is of low latitude, if the country has grown faster, is richer, more dependent on agriculture and tourism, and is less open to trade."
+abstract: "Despite the growing size of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality. Public schools with below-median baseline school value-added drive our results, suggesting that the gap in public school quality is shrinking because of the program. We explore these effects in a model of household demand for schools. We show that the incentive to provide quality is nonlinear. Voucher programs only threaten public school enrollment when the voucher amount is large or when a significant proportion of students are eligible to participate. Policymakers interested in adopting and expanding these programs should consider these indirect and nonlinear effects to understand vouchers’ impact on educational outcomes."
 
 featured: false
 
-publication: "Working Paper - Revise and Resubmit at the Journal of Climate Finance"
+publication: "Working Paper"
 
 ---
