@@ -19,7 +19,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - project
+          - publication
         featured_only: true
     design:
       columns: '2'
