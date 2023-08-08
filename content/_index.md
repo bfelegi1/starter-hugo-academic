@@ -13,7 +13,7 @@ sections:
       username: admin
   
 
-   - block: collection
+  - block: collection
     id: projects
     content:
       title: Working Papers
