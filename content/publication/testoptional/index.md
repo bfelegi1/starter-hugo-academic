@@ -1,9 +1,8 @@
 ---
-title: "Supply-Side Responses in School Choice"
+title: "Do the SAT and ACT Limit Enrollment? Evidence from the Test-Optional Movement"
 authors:
-- Chandon Adger
 - admin
-date: "2022-11-12T00:00:00Z"
+date: "2023-05-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,21 +15,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Under Review"
 publication_short: ""
 
-abstract: Despite the growing size of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality. Public schools with below-median baseline school value-added drive our results, suggesting that the gap in public school quality is shrinking because of the program. We explore these effects in a model of household demand for schools. We show that the incentive to provide quality is nonlinear. Voucher programs only threaten public school enrollment when the voucher amount is large or when a significant proportion of students are eligible to participate. Policymakers interested in adopting and expanding these programs should consider these indirect and nonlinear effects to understand vouchers’ impact on educational outcomes.
+abstract: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test- optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2005 and 2014. Compared to schools that did not switch, test-optional schools witnessed an 18.2 log point increase in the number of minority enrollments and a 10.2 log point increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. These results take on heightened importance as nearly 800 additional four- year college and universities adopted these policies in response to the COVID-19 pandemic.
 
 
 # Summary. An optional shortened abstract.
-summary: Despite the growing size of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality. Public schools with below-median baseline school value-added drive our results, suggesting that the gap in public school quality is shrinking because of the program. We explore these effects in a model of household demand for schools. We show that the incentive to provide quality is nonlinear. Voucher programs only threaten public school enrollment when the voucher amount is large or when a significant proportion of students are eligible to participate. Policymakers interested in adopting and expanding these programs should consider these indirect and nonlinear effects to understand vouchers’ impact on educational outcomes.
+summary: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test- optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2005 and 2014. Compared to schools that did not switch, test-optional schools witnessed an 18.2 log point increase in the number of minority enrollments and a 10.2 log point increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. These results take on heightened importance as nearly 800 additional four- year college and universities adopted these policies in response to the COVID-19 pandemic.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Supply_Side_Responses_in_School_Choice.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Materials/testoptional.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
