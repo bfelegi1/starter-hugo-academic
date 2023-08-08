@@ -23,7 +23,7 @@ abstract: Despite the growing size of private-school voucher programs, our under
 
 
 # Summary. An optional shortened abstract.
-summary: This is a test
+summary: In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality.
 
 tags:
 - Source Themes
@@ -34,12 +34,12 @@ links:
   url: http://example.org
 url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Supply_Side_Responses_in_School_Choice.pdf
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,9 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
