@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brianna Felegi, Ph.D.
+title: Brianna Felegi
 
 # Full name (for SEO)
 first_name: Brianna
@@ -79,5 +79,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+My name is Brianna Felegi and I am an Assistant Professor of Economics at Virginia Tech. I completed my Ph.D. in Economics at the University of Notre Dame in May 2023. My primary fields are Applied Microeconomics and Economics of Education. My research focuses on evaluating policies intended to increase access to schooling. 
