@@ -45,11 +45,7 @@ sections:
       office_hours:
         - 'Tuesdays 9:00 to 10:00am, 4:00 to 5:00pm'
         - 'Thursdays 9:00 to 10:00am, 4:00 to 5:00pm'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Twitter
-          link: 'https://twitter.com/BFelegi'
+    
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
