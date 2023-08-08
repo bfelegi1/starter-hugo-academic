@@ -26,12 +26,12 @@ sections:
       view: card
      
   - block: collection
-    id: featured
+    id: teaching
     content:
       title: Teaching
       filters:
         folders:
-          - publication
+          - teaching
         featured_only: true
     design:
       columns: '2'
