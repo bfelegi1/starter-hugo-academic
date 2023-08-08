@@ -11,7 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Working Papers
