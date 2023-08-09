@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Supply_Side_Responses_in_School_Choice.pdf
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
