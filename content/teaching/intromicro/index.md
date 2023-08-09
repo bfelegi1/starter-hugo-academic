@@ -1,9 +1,8 @@
 ---
-title: "Supply-Side Responses in School Choice"
+title: "Principles of Microeconomics"
 authors:
-- Chandon Adger
 - admin
-date: "2022-11-12T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,26 +12,25 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Despite the growing size of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality. Public schools with below-median baseline school value-added drive our results, suggesting that the gap in public school quality is shrinking because of the program. We explore these effects in a model of household demand for schools. We show that the incentive to provide quality is nonlinear. Voucher programs only threaten public school enrollment when the voucher amount is large or when a significant proportion of students are eligible to participate. Policymakers interested in adopting and expanding these programs should consider these indirect and nonlinear effects to understand vouchers’ impact on educational outcomes.
+abstract: This undergraduate course serves as an introduction to the study of microeconomics. Microeconomics is a framework that allows us to study the world given certain assumptions about the behavior of individuals and groups. As such, economists research a variety of topics including (but not limited to) trade, labor markets, education, crime, and marriage and fertility. Economists are trained to think in unique ways, and thus provide insights missed by other social scientists. The goal of this course is to equip you with the basics of such thinking. In this endeavor, we explore interesting questions and learn simple tools that economists use to shed light on complicated questions.
 
 
 # Summary. An optional shortened abstract.
-summary: Despite the growing size of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. In this paper, we show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the largest voucher program in the United States, the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased their quality while participating private schools decreased their quality. Public schools with below-median baseline school value-added drive our results, suggesting that the gap in public school quality is shrinking because of the program. We explore these effects in a model of household demand for schools. We show that the incentive to provide quality is nonlinear. Voucher programs only threaten public school enrollment when the voucher amount is large or when a significant proportion of students are eligible to participate. Policymakers interested in adopting and expanding these programs should consider these indirect and nonlinear effects to understand vouchers’ impact on educational outcomes.
+summary:
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Supply_Side_Responses_in_School_Choice.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Materials/summer2022_syllabus.pdf
 url_code: ''
-url_syllabus: '#'
 url_dataset: ''
 url_poster: ''
 url_project: ''
