@@ -1,8 +1,9 @@
 ---
-title: "Do the SAT and ACT Limit Enrollment? Evidence from the Test-Optional Movement"
+title: "Statistics for Economics Tutorial"
 authors:
 - admin
-date: "2023-05-12T00:00:00Z"
+  
+date: "2022-08-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,24 +13,23 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "University of Notre Dame"
 publication_short: ""
 
-abstract: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test- optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2005 and 2014. Compared to schools that did not switch, test-optional schools witnessed an 18.2 log point increase in the number of minority enrollments and a 10.2 log point increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. These results take on heightened importance as nearly 800 additional four- year college and universities adopted these policies in response to the COVID-19 pandemic.
-
+abstract: This course will introduce students to a core set of topics in statistics. The class will be composed of four areas of study (1) describing, presenting and analyzing data; (2) probability theory, distributions (discrete and continuous), and random variables; (3) sampling theory, estimation and hypothesis testing; (4) linear regression analysis. The objectives of the course are to provide students with a practical knowledge of statistics in order to better understand current events and policy discussions; to introduce students to the data analysis, formal models and problem-solving methods used by statisticians and econometricians; to enable students to read and understand basic economic research that uses statistical methods; to prepare students for further study in econometrics; and to teach students how to use and perform statistical analysis using Stata.
 
 # Summary. An optional shortened abstract.
-summary: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test- optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2005 and 2014. Compared to schools that did not switch, test-optional schools witnessed an 18.2 log point increase in the number of minority enrollments and a 10.2 log point increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. These results take on heightened importance as nearly 800 additional four- year college and universities adopted these policies in response to the COVID-19 pandemic.
+summary:
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://bfelegi1.github.io/Job-Market-Materials/testoptional.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Materials/stats_f2022_syllabus.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
