@@ -32,41 +32,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
-    id: teaching
+  - block: collection
+  - id: teaching
     content:
       title: Teaching
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Instructor of Record 
-          company: Virginia Tech
-          company_url: 'https://www.vt.edu/'
-          company_logo: Virginia_Tech_Hokies_logo
-          location: Blacksburg, VA
-          date_start: '2023-08-01'
-          date_end: ''
-          description: Analysis of Economic Data (Fall 2023)
-        - title: Instructor of Record
-          company: University of Notre Dame
-          company_url: 'https://www.nd.edu/'
-          company_logo: Notre_Dame_Fighting_Irish_logo
-          location: Notre Dame, IN
-          date_start: '2022-06-01'
-          date_end: '2022-12-31'
-          description: |2-
-              Classes Taught:
-              * Statistics for Economics Tutorial
-              * Principles of Microeconomics
+      filters:
+        folders:
+          - teaching
+        exclude_featured: true
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
