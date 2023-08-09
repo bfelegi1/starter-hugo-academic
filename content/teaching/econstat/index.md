@@ -3,7 +3,7 @@ title: "Statistics for Economics Tutorial"
 authors:
 - admin
   
-date: "2022-08-01T00:00:00Z"
+date: "2022-08-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
