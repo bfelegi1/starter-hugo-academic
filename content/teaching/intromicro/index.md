@@ -18,11 +18,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: This undergraduate course serves as an introduction to the study of microeconomics. Microeconomics is a framework that allows us to study the world given certain assumptions about the behavior of individuals and groups. As such, economists research a variety of topics including (but not limited to) trade, labor markets, education, crime, and marriage and fertility. Economists are trained to think in unique ways, and thus provide insights missed by other social scientists. The goal of this course is to equip you with the basics of such thinking. In this endeavor, we explore interesting questions and learn simple tools that economists use to shed light on complicated questions.
-
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: This undergraduate course serves as an introduction to the study of microeconomics. Microeconomics is a framework that allows us to study the world given certain assumptions about the behavior of individuals and groups. As such, economists research a variety of topics including (but not limited to) trade, labor markets, education, crime, and marriage and fertility. Economists are trained to think in unique ways, and thus provide insights missed by other social scientists. The goal of this course is to equip you with the basics of such thinking. In this endeavor, we explore interesting questions and learn simple tools that economists use to shed light on complicated questions.
 
 tags:
 - Source Themes
