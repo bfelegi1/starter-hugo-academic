@@ -1,5 +1,5 @@
 ---
-title: "Can Light-Touch Interventions In High School Impact Education Outcomes?"
+title: "The Free Tuition Laws and Their Impact on Educational Attainment in the 20th century"
 authors:
 - admin
 date: "2023-08-12T00:00:00Z"
