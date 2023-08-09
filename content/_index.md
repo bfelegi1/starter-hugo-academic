@@ -33,7 +33,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-  - id: teaching
+    id: teaching
     content:
       title: Teaching
       filters:
