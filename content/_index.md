@@ -21,7 +21,17 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card     
+      view: card
+  - block: collection
+    content:
+      title: Research in Progress
+      filters:
+        folders:
+          - progress
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation     
   - block: collection
     id: teaching
     content:
