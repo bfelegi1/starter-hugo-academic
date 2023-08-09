@@ -1,5 +1,5 @@
 ---
-title: "The War on Poverty and Higher Education Access: Educational Attainment and Intergenerational Effects of Upward Bound "
+title: "The War on Poverty and Higher Education Access: Educational Attainment and Intergenerational Effects of Upward Bound"
 authors:
 - admin
 - Chloe Gibbs
