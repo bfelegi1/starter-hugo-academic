@@ -2,6 +2,7 @@
 title: "Statistics for Economics Tutorial"
 authors:
 - admin
+  
 date: "2022-08-01T00:00:00Z"
 doi: ""
 
@@ -15,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "University of Notre Dame"
 publication_short: ""
 
-abstract:
+abstract: This course will introduce students to a core set of topics in statistics. The class will be composed of four areas of study: (1) describing, presenting and analyzing data; (2) probability theory, distributions (discrete and continuous), and random variables; (3) sampling theory, estimation and hypothesis testing; (4) linear regression analysis. The objectives of the course are to provide students with a practical knowledge of statistics in order to better understand current events and policy discussions; to introduce students to the data analysis, formal models and problem-solving methods used by statisticians and econometricians; to enable students to read and understand basic economic research that uses statistical methods; to prepare students for further study in econometrics; and to teach students how to use and perform statistical analysis using Stata – a statistical package.
 
 # Summary. An optional shortened abstract.
-summary: This course will introduce students to a core set of topics in statistics. The class will be composed of four areas of study: (1) describing, presenting and analyzing data; (2) probability theory, distributions (discrete and continuous), and random variables; (3) sampling theory, estimation and hypothesis testing; (4) linear regression analysis. The objectives of the course are to provide students with a practical knowledge of statistics in order to better understand current events and policy discussions; to introduce students to the data analysis, formal models and problem-solving methods used by statisticians and econometricians; to enable students to read and understand basic economic research that uses statistical methods; to prepare students for further study in econometrics; and to teach students how to use and perform statistical analysis using Stata – a statistical package.
+summary:
 
 tags:
 - Source Themes
