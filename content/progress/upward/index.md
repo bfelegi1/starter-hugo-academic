@@ -1,7 +1,8 @@
 ---
-title: "Can Light-Touch Interventions In High School Impact Education Outcomes?"
+title: "The War on Poverty and Higher Education Access: Educational Attainment and Intergenerational Effects of Upward Bound "
 authors:
 - admin
+- Chloe Gibbs
 date: "2023-08-12T00:00:00Z"
 doi: ""
 
