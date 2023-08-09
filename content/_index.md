@@ -60,10 +60,13 @@ sections:
           location: Notre Dame, IN
           date_start: '2022-06-01'
           date_end: '2022-12-31'
-          description: Analysis of Economic Data (Fall 2023)
+          description: |2-
+              Classes Taught:
+              * Statistics for Economics Tutorial
+              * Principles of Microeconomics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
   - block: contact
     id: contact
     content:
