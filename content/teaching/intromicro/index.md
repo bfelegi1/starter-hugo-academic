@@ -2,7 +2,7 @@
 title: "Principles of Microeconomics"
 authors:
 - admin
-date: "2022-08-01T00:00:00Z"
+date: "2022-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
