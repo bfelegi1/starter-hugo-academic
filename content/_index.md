@@ -52,7 +52,7 @@ sections:
         Feel free to contact me with any questions!
       # Contact (add or remove contact options as necessary)
       email: bfelegi@vt.edu
-      phone: +1 (561) 598-9893
+      phone: +1 (540) 231-4431
       address:
         street: 3122 Pamplin Hall
         city: Blacksburg
