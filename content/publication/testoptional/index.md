@@ -2,7 +2,7 @@
 title: "Do the SAT and ACT Limit Enrollment? Evidence from the Test-Optional Movement"
 authors:
 - admin
-date: "2023-05-12T00:00:00Z"
+date: "2025-05-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
