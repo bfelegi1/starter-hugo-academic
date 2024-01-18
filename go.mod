@@ -1,5 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic-cv
-
+module github.com/HugoBlox/theme-academic-cv
 go 1.15
 
 require (
