@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2022-10-24
+date: 2024-10-24
 type: landing
 
 sections:
@@ -61,8 +61,7 @@ sections:
         country: United States
         country_code: US
       office_hours:
-        - 'Tuesdays 9:00 to 10:00am and 4:00 to 5:00pm'
-        - 'Thursdays 9:00 to 10:00am and 4:00 to 5:00pm'
+        - 'By Appointment'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
